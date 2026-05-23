@@ -4,12 +4,12 @@
 </div>
 
 > [!NOTE]  
-> This repo was created in 2019 and the questions provided here are therefore based on the JavaScript syntax and behavior at that time. Since JavaScript is a constantly evolving language, there are newer language features that are not covered by the questions here.
+> This repo was created in 2019 and the questions provided here are therefore based on the JavaScript syntax and behavior at that time. Since JavaScript is a constantly evolving language, there are newer language features that are not covered by the questions here. Inspired by Lydia Hallie (javascript-questions)
 
 ---
 
 <p align="center">
-From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. I added the answers in the **collapsed sections** below the questions, simply click on them to expand it. It's just for fun, good luck! :heart:</p>
+From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit or prepare for your coding interview! The answers are added in the **collapsed sections** below the questions.
 
 <p align="center">Feel free to reach out to me! 😊</p>
 
