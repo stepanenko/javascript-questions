@@ -11,7 +11,7 @@
 <p align="center">
 From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit or prepare for your coding interview! The answers are added in the collapsed sections below the questions.
 
-<details><summary><strong> See 20 Available Translations 🇩🇪🇪🇸🇫🇷🇮🇹🇧🇷🇺🇦</strong></summary>
+<details><summary><strong> See 6 Available Translations 🇩🇪🇪🇸🇫🇷🇮🇹🇧🇷🇺🇦</strong></summary>
 <p>
 
 - [🇩🇪 Deutsch](./de-DE/README.md)
