@@ -15,37 +15,17 @@ Sentiti libero di contattarmi! 😊 <br />
 
 | Sentiti libero di usarli in un progetto! 😃  Apprezzerei _molto_ un riferimento a questa repository, creo le domande e le spiegazioni (sì, sono triste lol) e la community mi aiuta tantissimo a mantenerlo e migliorarlo! 💪🏼 Grazie e buon divertimento!  |
 
-
-Traduzione a cura di: <a href="https://github.com/luciacenetiempo">Lucia Cenetiempo</a>
-|---|
-
 ---
 
-<details><summary><b> Vedi le 20 traduzioni disponibili 🇸🇦🇪🇬🇧🇦🇩🇪🇪🇸🇫🇷🇮🇩🇯🇵🇰🇷🇳🇱🇧🇷🇷🇺🇹🇭🇹🇷🇺🇦🇻🇳🇨🇳🇹🇼🇽🇰</b></summary>
+<details><summary><b> Vedi le 6 traduzioni disponibili 🇩🇪🇪🇸🇫🇷🇮🇹🇧🇷🇺🇦</b></summary>
 <p>
 
-- [🇸🇦 العربية](../ar-AR/README_AR.md)
-- [🇪🇬 اللغة العامية](../ar-EG/README_ar-EG.md)
-- [🇧🇦 Bosanski](../bs-BS/README-bs_BS.md)
-- [🇩🇪 Deutsch](../de-DE/README.md)
-- [🇬🇧 English](../README.md)
-- [🇪🇸 Español](../es-ES/README-ES.md)
-- [🇫🇷 Français](../fr-FR/README_fr-FR.md)
-- [🇮🇩 Indonesia](../id-ID/README.md)
-- [🇯🇵 日本語](../ja-JA/README-ja_JA.md)
-- [🇰🇷 한국어](../ko-KR/README-ko_KR.md)
-- [🇳🇱 Nederlands](../nl-NL/README.md)
-- [🇵🇱 Polski](../pl-PL/README.md)
-- [🇧🇷 Português Brasil](../pt-BR/README_pt_BR.md)
-- [🇷o Română](../ro-RO/README.ro.md)
-- [🇷🇺 Русский](../ru-RU/README.md)
-- [🇽🇰 Shqip](../sq-KS/README_sq_KS.md)
-- [🇹🇭 ไทย](../th-TH/README-th_TH.md)
-- [🇹🇷 Türkçe](../tr-TR/README-tr_TR.md)
-- [🇺🇦 Українська мова](../uk-UA/README.md)
-- [🇻🇳 Tiếng Việt](../vi-VI/README-vi.md)
-- [🇨🇳 简体中文](../zh-CN/README-zh_CN.md)
-- [🇹🇼 繁體中文](../zh-TW/README_zh-TW.md)
+- [🇩🇪 Deutsch](./de-DE/README.md)
+- [🇪🇸 Español](./es-ES/README-ES.md)
+- [🇫🇷 Français](./fr-FR/README_fr-FR.md)
+- [🇮🇹 Italiano](./it-IT/README.md)
+- [🇧🇷 Português Brasil](./pt-BR/README_pt_BR.md)
+- [🇺🇦 Українська мова](./uk-UA/README.md)
 
 </p>
 </details>
