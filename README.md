@@ -3,7 +3,7 @@
   <h1>JavaScript Questions</h1>
 </div>
 
-> [!NOTE]   
+> [!NOTE]
 > This repo was created in 2019 and the questions provided here are therefore based on the JavaScript syntax and behavior at that time. Since JavaScript is a constantly evolving language, there are newer language features that are not covered by the questions here.
 
 Inspired by Lydia Hallie: <a href="https://github.com/lydiahallie">Github</a> / <a href="https://www.instagram.com/theavocoder">Instagram</a> / <a href="https://www.twitter.com/lydiahallie">Twitter</a> / <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> / <a href="https://www.lydiahallie.com/">Blog</a>
